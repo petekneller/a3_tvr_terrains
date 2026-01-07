@@ -10,6 +10,3 @@ export INPUT_REGEX='<style type=\"text/css"><!\[CDATA\[ polyline{ fill: none; };
 export OUTPUT='<style type="text/css"><![CDATA[ polyline{ fill: none; }; ]]></style><style type="text/css"><![CDATA[ ellipse{ stroke:url(#colorForest); fill: none; stroke-width: 4; } ]]>'
 
 unzip -p src/${MAP_NAME}.svg.zip | sed "s|${INPUT_REGEX}|${OUTPUT}|" | python -m cairosvg -o out/tacview/${MAP_NAME}.png -
-
-
-
