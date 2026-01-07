@@ -1,0 +1,21 @@
+#ifndef _WORLD_CONFIG
+#define _WORLD_CONFIG
+
+_worldConfig = createHashMap;
+
+{% for world_name in config.keys() %}
+{% set world = config[world_name] %}
+/*
+**  {{ world_name }}
+*/
+_tmp = createHashMap;
+_tmp set ["name", "{{ world_name }}"];
+_tmp set ["latMin", {{ world['latMin'] }}];
+_tmp set ["latMax", {{ world['latMax'] }}];
+_tmp set ["lonMin", {{ world['lonMin'] }}];
+_tmp set ["lonMax", {{ world['lonMax'] }}];
+_worldConfig set ["{{ world['armaName'] | lower }}", _tmp];
+
+{% endfor %}
+
+#endif

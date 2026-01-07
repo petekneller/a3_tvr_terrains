@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Resources>
+  <CustomHeightmapList>
+
+  {% for world_name in config.keys() %}
+  {% set world = config[world_name] %}
+    <CustomHeightmap Layer="ARMA">
+
+      <File>{{ world_name }}.dat</File>
+
+      <BigEndian>0</BigEndian>
+
+      <Width>{{ (world['size'] // 10) + 1 }}</Width>
+      <Height>{{ (world['size'] // 10) + 1 }}</Height>
+
+      <AltitudeFactor>1</AltitudeFactor>
+      <AltitudeOffset>-1000</AltitudeOffset>
+
+      <Projection>Quad</Projection>
+
+      <BottomLeft>
+        <Longitude>{{ world['lonMin'] }}</Longitude>
+        <Latitude>{{ world['latMin'] }}</Latitude>
+      </BottomLeft>
+
+      <BottomRight>
+        <Longitude>{{ world['lonMax'] }}</Longitude>
+        <Latitude>{{ world['latMin'] }}</Latitude>
+      </BottomRight>
+
+      <TopRight>
+        <Longitude>{{ world['lonMax'] }}</Longitude>
+        <Latitude>{{ world['latMax'] }}</Latitude>
+      </TopRight>
+
+      <TopLeft>
+        <Longitude>{{ world['lonMin'] }}</Longitude>
+        <Latitude>{{ world['latMax'] }}</Latitude>
+      </TopLeft>
+
+    </CustomHeightmap>
+
+  {% endfor %}
+  </CustomHeightmapList>
+</Resources>

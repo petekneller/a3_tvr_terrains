@@ -1,0 +1,463 @@
+Altis:
+  armaName: Altis
+  size: 30720
+  latMin: 39.7185
+  lonMin: 25.012
+  latMax: 40.0946
+  lonMax: 25.4815
+
+Al_Salmon_2:
+  armaName: swu_public_salman_map
+  size: 10240
+  latMin: 30.3
+  lonMin: 44.5
+  latMax: 30.4
+  lonMax: 44.62
+
+Anizay:
+  armaName: tem_anizay
+  size: 10240
+  latMin: 31.46539
+  lonMin: 65.33458
+  latMax: 31.55792
+  lonMax: 65.44222
+
+Bukovina:
+  armaName: Bootcamp_ACR
+  size: 3840
+  latMin: 46.867
+  lonMin: 77.890
+  latMax: 46.903
+  lonMax: 77.941
+
+Bystrica:
+  armaName: Woodland_ACR
+  size: 7680
+  latMin: 46.867
+  lonMin: 77.407
+  latMax: 46.935
+  lonMax: 77.507
+
+Cam_Lao_Nam:
+  armaName: Cam_Lao_Nam
+  size: 20480
+  latMin: 10.71666667
+  lonMin: 106.55
+  latMax: 10.90194444
+  lonMax: 106.7375
+
+Chernarus_2020:
+  armaName: cup_chernarus_A3
+  size: 15360
+  latMin: 46.613
+  lonMin: 77.850
+  latMax: 46.742
+  lonMax: 78.043
+
+Chernarus_Autumn:
+  armaName: chernarus
+  size: 15360
+  latMin: 46.613
+  lonMin: 77.440
+  latMax: 46.742
+  lonMax: 77.633
+
+Chernarus_Summer:
+  armaName: chernarus_summer
+  size: 15360
+  latMin: 46.613
+  lonMin: 77.100
+  latMax: 46.742
+  lonMax: 77.293
+
+Chernarus_Winter:
+  armaName: Chernarus_Winter
+  size: 15360
+  latMin: 46.613
+  lonMin: 76.710
+  latMax: 46.742
+  lonMax: 76.903
+
+Dagger_Island_Training_Complex:
+  armaName: dagger_island_summer
+  size: 20480
+  latMin: 66.000
+  lonMin: 3.000
+  latMax: 66.100
+  lonMax: 3.250
+
+Dagger_Island_Training_Complex_No_Targets:
+  armaName: dagger_island_summer_no_targets
+  size: 20480
+  latMin: 66.000
+  lonMin: 4.000
+  latMax: 66.100
+  lonMax: 4.250
+
+Desert:
+  armaName: Desert_E
+  size: 2048
+  latMin: 47.329
+  lonMin: 73.430
+  latMax: 47.347
+  lonMax: 73.458
+
+Everon:
+  armaName: eden
+  size: 12800
+  latMin: 38.050
+  lonMin: 20.293
+  latMax: 38.525
+  lonMax: 20.877
+
+Fallujah:
+  armaName: fallujah
+  size: 10240
+  latMin: 33.297247
+  lonMin: 43.72386
+  latMax: 33.401877
+  lonMax: 43.84345
+
+Fapovo_Island:
+  armaName: fapovo
+  size: 10240
+  latMin: 43.0
+  lonMin: 48.5
+  latMax: 43.1
+  lonMax: 48.64
+
+Fox_Hutan:
+  armaName: fox_hutan
+  size: 10240
+  latMin: 12.683
+  lonMin: 106.361
+  latMax: 12.773
+  lonMax: 106.453
+
+Fox_Pamai:
+  armaName: fox_pamai
+  size: 10240
+  latMin: 12.683
+  lonMin: 106.461
+  latMax: 12.773
+  lonMax: 106.554
+
+Fox_Vanam:
+  armaName: fox_vanam
+  size: 10240
+  latMin: 12.683
+  lonMin: 106.564
+  latMax: 12.773
+  lonMax: 106.657
+
+Hunting_Grounds:
+  armaName: taro_huntingGrounds
+  size: 10240
+  latMin: 13.500
+  lonMin: 106.461
+  latMax: 13.595
+  lonMax: 106.554
+
+Hurtgen_Forest:
+  armaName: hpr_hurtgen
+  size: 6656
+  latMin: 50.7
+  lonMin: 6.3
+  latMax: 50.8
+  lonMax: 6.45
+
+Kardazak:
+  armaName: swu_public_afghan_map
+  size: 5120
+  latMin: 47.5
+  lonMin: 71.0
+  latMax: 47.6
+  lonMax: 71.15
+
+Khe_Sanh:
+  armaName: vn_khe_sanh
+  size: 15360
+  latMin: 16.59424
+  lonMin: 106.63136
+  latMax: 16.73448
+  lonMax: 106.77775
+
+Kolgujev:
+  armaName: cain
+  size: 12800
+  latMin: 43.863
+  lonMin: 36.067
+  latMax: 43.986
+  lonMax: 36.245
+
+Kunduz_River:
+  armaName: kunduz_valley
+  size: 10240
+  latMin: 36.550
+  lonMin: 68.800
+  latMax: 36.650
+  lonMax: 68.920
+
+Livonia:
+  armaName: Enoch
+  size: 12800
+  latMin: 49.16576
+  lonMin: 17.29804
+  latMax: 49.29210
+  lonMax: 17.49253
+
+Lythium:
+  armaName: lythium
+  size: 20480
+  latMin: 31.5
+  lonMin: 66.0
+  latMax: 31.6
+  lonMax: 66.12
+
+Malden:
+  armaName: abel
+  size: 12800
+  latMin: 38.55506
+  lonMin: 19.47518
+  latMax: 38.86097
+  lonMax: 19.86588
+
+Malden2035:
+  armaName: Malden
+  size: 12800
+  latMin: 38.55506
+  lonMin: 20.47518
+  latMax: 38.86097
+  lonMax: 20.86588
+
+Mogadishu:
+  armaName: Mog
+  size: 20480
+  latMin: 1.96293
+  lonMin: 45.25089
+  latMax: 2.14718
+  lonMax: 45.43525
+
+Nogova:
+  armaName: noe
+  size: 12800
+  latMin: 38.55506
+  lonMin: 18.47518
+  latMax: 38.86097
+  lonMax: 18.86588
+
+Normandy:
+  armaName: spe_normandy
+  size: 12288
+  latMin: 49.0
+  lonMin: 0.0
+  latMax: 49.1
+  lonMax: 0.15
+
+Novogorsk:
+  armaName: swu_public_novogorsk_map
+  size: 5120
+  latMin: 47.0
+  lonMin: 76.5
+  latMax: 47.1
+  lonMax: 76.65
+
+Porto:
+  armaName: porto
+  size: 5120
+  latMin: 42.397
+  lonMin: 50.354
+  latMax: 42.441
+  lonMax: 50.416
+
+Proving_Grounds:
+  armaName: ProvingGrounds_PMC
+  size: 2048
+  latMin: 47.290
+  lonMin: 72.454
+  latMax: 47.310
+  lonMax: 72.480
+
+Rahmadi:
+  armaName: intro
+  size: 5120
+  latMin: 42.498
+  lonMin: 49.617
+  latMax: 42.543
+  lonMax: 49.680
+  
+Sahatra:
+  armaName: juju_sahatra
+  size: 8192
+  latMin: 33.0
+  lonMin: 44.0
+  latMax: 33.1
+  lonMax: 44.12
+
+Sahrani:
+  armaName: sara
+  size: 20480
+  latMin: 43.014
+  lonMin: 49.247
+  latMax: 43.198
+  lonMax: 49.496
+
+Shapur:
+  armaName: Shapur_BAF
+  size: 2048
+  latMin: 47.084
+  lonMin: 70.631
+  latMax: 47.102
+  lonMax: 70.656
+
+Southern_Sahrani:
+  armaName: saralite
+  size: 10240
+  latMin: 42.608
+  lonMin: 49.956
+  latMax: 42.704
+  lonMax: 50.080
+
+Stratis:
+  armaName: Stratis
+  size: 8192
+  latMin: 39.45736
+  lonMin: 24.94656
+  latMax: 39.56808
+  lonMax: 25.07194
+
+Takistan:
+  armaName: takistan
+  size: 12800
+  latMin: 47.396
+  lonMin: 71.440
+  latMax: 47.510
+  lonMax: 71.610
+
+Takistan_Mountains:
+  armaName: Mountains_ACR
+  size: 6400
+  latMin: 48.072
+  lonMin: 71.796
+  latMax: 48.126
+  lonMax: 71.880
+
+Tanoa:
+  armaName: Tanoa
+  size: 15360
+  latMin: -20.268
+  lonMin: 174.003
+  latMax: -20.1353
+  lonMax: 174.146
+
+The_Bra:
+  armaName: vn_the_bra
+  size: 5120
+  latMin: 14.730
+  lonMin: 107.327
+  latMax: 14.776
+  lonMax: 107.374
+
+United_Sahrani:
+  armaName: sara_dbe1
+  size: 20480
+  latMin: 43.019
+  lonMin: 49.886
+  latMax: 43.200
+  lonMax: 50.131
+
+Unsung_Redux_BaLong:
+  armaName: urx_jnd_BaLong
+  size: 5120
+  latMin: 14.200
+  lonMin: 106.000
+  latMax: 14.247
+  lonMax: 106.050
+
+Unsung_Redux_DaKrong:
+  armaName: DaKrong
+  size: 5120
+  latMin: 14.200
+  lonMin: 106.100
+  latMax: 14.247
+  lonMax: 106.150
+
+Unsung_Redux_DakPek:
+  armaName: urx_jnd_dakpek
+  size: 10240
+  latMin: 14.200
+  lonMin: 106.200
+  latMax: 14.295
+  lonMax: 106.300
+
+Unsung_Redux_Lowlands:
+  armaName: csj_lowlands
+  size: 10240
+  latMin: 14.200
+  lonMin: 106.400
+  latMax: 14.295
+  lonMax: 106.500
+
+Unsung_Redux_DoungIsland:
+  armaName: RungSat
+  size: 5120
+  latMin: 10.000
+  lonMin: 107.000
+  latMax: 10.047
+  lonMax: 107.050
+
+Unsung_Redux_SongBinTanh:
+  armaName: song_bin_tanh
+  size: 15360
+  latMin: 14.200
+  lonMin: 106.700
+  latMax: 14.342
+  lonMax: 106.850
+
+Utah_Beach:
+  armaName: spex_utah_beach
+  size: 7680
+  latMin: 49.5
+  lonMin: -1.35
+  latMax: 49.6
+  lonMax: -1.2
+
+Utes:
+  armaName: utes
+  size: 5120
+  latMin: 46.451
+  lonMin: 77.950
+  latMax: 46.496
+  lonMax: 78.016
+
+Virtual_Reality:
+  armaName: VR
+  size: 8192
+  latMin: 47.545
+  lonMin: -23.547
+  latMax: 47.619
+  lonMax: -23.436
+
+Weferlingen_Summer:
+  armaName: gm_weferlingen_summer
+  size: 20480
+  latMin: 52.0
+  lonMin: 15.0
+  latMax: 52.1
+  lonMax: 15.15
+
+Weferlingen_Winter:
+  armaName: gm_weferlingen_winter
+  size: 20480
+  latMin: 52.0
+  lonMin: 16.0
+  latMax: 52.1
+  lonMax: 16.15
+
+Zargabad:
+  armaName: zargabad
+  size: 8192
+  latMin: 46.926
+  lonMin: 70.294
+  latMax: 46.997
+  lonMax: 70.395

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Resources>
+  <CustomTextureList>
+
+  {% for world_name in config.keys() %}
+  {% set world = config[world_name] %}
+    <CustomTexture Layer="ARMA">
+      <File>{{ world_name }}.png</File>
+
+      <BottomLeft>
+        <Longitude>{{ world['lonMin'] }}</Longitude>
+        <Latitude>{{ world['latMin'] }}</Latitude>
+      </BottomLeft>
+
+      <BottomRight>
+        <Longitude>{{ world['lonMax'] }}</Longitude>
+        <Latitude>{{ world['latMin'] }}</Latitude>
+      </BottomRight>
+
+      <TopRight>
+        <Longitude>{{ world['lonMax'] }}</Longitude>
+        <Latitude>{{ world['latMax'] }}</Latitude>
+      </TopRight>
+
+      <TopLeft>
+        <Longitude>{{ world['lonMin'] }}</Longitude>
+        <Latitude>{{ world['latMax'] }}</Latitude>
+      </TopLeft>
+
+    </CustomTexture>
+
+  {% endfor %}
+  </CustomTextureList>
+</Resources>
