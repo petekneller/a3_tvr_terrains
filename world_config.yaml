@@ -110,14 +110,6 @@ Everon:
   latMax: 38.525
   lonMax: 20.877
 
-Fallujah:
-  armaName: fallujah
-  size: 10240
-  latMin: 33.297247
-  lonMin: 43.72386
-  latMax: 33.401877
-  lonMax: 43.84345
-
 Fapovo_Island:
   armaName: fapovo
   size: 10240
