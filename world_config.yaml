@@ -5,6 +5,10 @@ Altis:
   lonMin: 25.012
   latMax: 40.0946
   lonMax: 25.4815
+  steam:
+    name: Altis
+  owner:
+    name: Bohemia Interactive
 
 Al_Salmon_2:
   armaName: swu_public_salman_map
@@ -13,6 +17,12 @@ Al_Salmon_2:
   lonMin: 44.5
   latMax: 30.4
   lonMax: 44.62
+  steam:
+    name: "Al Salman 2.0"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2857846877"
+  owner:
+    name: "swurvin"
+    workshop: "https://steamcommunity.com/id/swurvin420/myworkshopfiles/?appid=107410"
 
 Anizay:
   armaName: tem_anizay
@@ -21,14 +31,26 @@ Anizay:
   lonMin: 65.33458
   latMax: 31.55792
   lonMax: 65.44222
+  steam:
+    name: "Anizay"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=1537973181"
+  owner:
+    name: "Temppa"
+    workshop: "https://steamcommunity.com/profiles/76561197960909051/myworkshopfiles/?appid=107410"
 
 Bukovina:
   armaName: Bootcamp_ACR
   size: 3840
   latMin: 46.867
-  lonMin: 77.890
+  lonMin: 77.89
   latMax: 46.903
   lonMax: 77.941
+  steam:
+    name: "Bukovina (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Bystrica:
   armaName: Woodland_ACR
@@ -37,6 +59,12 @@ Bystrica:
   lonMin: 77.407
   latMax: 46.935
   lonMax: 77.507
+  steam:
+    name: "Bystrica (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Cam_Lao_Nam:
   armaName: Cam_Lao_Nam
@@ -45,70 +73,123 @@ Cam_Lao_Nam:
   lonMin: 106.55
   latMax: 10.90194444
   lonMax: 106.7375
+  steam:
+    name: "Cam Lao Nam (SOG PF cDLC)"
+    workshop: "https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/"
+  owner:
+    name: "Savage Game Design"
 
 Chernarus_2020:
   armaName: cup_chernarus_A3
   size: 15360
   latMin: 46.613
-  lonMin: 77.850
+  lonMin: 77.85
   latMax: 46.742
   lonMax: 78.043
+  steam:
+    name: "Chernarus 2020 (CUP Terrains - Maps 2.0)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Chernarus_Autumn:
   armaName: chernarus
   size: 15360
   latMin: 46.613
-  lonMin: 77.440
+  lonMin: 77.44
   latMax: 46.742
   lonMax: 77.633
+  steam:
+    name: "Chernarus Autumn (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Chernarus_Summer:
   armaName: chernarus_summer
   size: 15360
   latMin: 46.613
-  lonMin: 77.100
+  lonMin: 77.1
   latMax: 46.742
   lonMax: 77.293
+  steam:
+    name: "Chernarus Summer (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Chernarus_Winter:
   armaName: Chernarus_Winter
   size: 15360
   latMin: 46.613
-  lonMin: 76.710
+  lonMin: 76.71
   latMax: 46.742
   lonMax: 76.903
+  steam:
+    name: "Chernarus Winter (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Dagger_Island_Training_Complex:
   armaName: dagger_island_summer
   size: 20480
-  latMin: 66.000
-  lonMin: 3.000
-  latMax: 66.100
-  lonMax: 3.250
+  latMin: 66.0
+  lonMin: 3.0
+  latMax: 66.1
+  lonMax: 3.25
+  steam:
+    name: "Dagger Island Training Complex (2025)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2983546566"
+  owner:
+    name: "Finger Jam"
+    workshop: "https://steamcommunity.com/id/realfingerjam/myworkshopfiles/?appid=107410"
 
 Dagger_Island_Training_Complex_No_Targets:
   armaName: dagger_island_summer_no_targets
   size: 20480
-  latMin: 66.000
-  lonMin: 4.000
-  latMax: 66.100
-  lonMax: 4.250
+  latMin: 66.0
+  lonMin: 4.0
+  latMax: 66.1
+  lonMax: 4.25
+  steam:
+    name: "Dagger Island Training Complex (2025) (no targets)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2983546566"
+  owner:
+    name: "Finger Jam"
+    workshop: "https://steamcommunity.com/id/realfingerjam/myworkshopfiles/?appid=107410"
 
 Desert:
   armaName: Desert_E
   size: 2048
   latMin: 47.329
-  lonMin: 73.430
+  lonMin: 73.43
   latMax: 47.347
   lonMax: 73.458
+  steam:
+    name: "Desert (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Everon:
   armaName: eden
   size: 12800
-  latMin: 38.050
+  latMin: 38.05
   lonMin: 20.293
   latMax: 38.525
   lonMax: 20.877
+  steam:
+    name: "Everon (CUP Terrains - CWA)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Fapovo_Island:
   armaName: fapovo
@@ -117,6 +198,12 @@ Fapovo_Island:
   lonMin: 48.5
   latMax: 43.1
   lonMax: 48.64
+  steam:
+    name: "Fapovo Island"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=1910457930"
+  owner:
+    name: "IceBreakr"
+    workshop: "https://steamcommunity.com/id/icebreakr/myworkshopfiles/?appid=107410"
 
 Fox_Hutan:
   armaName: fox_hutan
@@ -125,6 +212,12 @@ Fox_Hutan:
   lonMin: 106.361
   latMax: 12.773
   lonMax: 106.453
+  steam:
+    name: "Fox Hutan"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2306911815"
+  owner:
+    name: "Fox"
+    workshop: "https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410"
 
 Fox_Pamai:
   armaName: fox_pamai
@@ -133,6 +226,12 @@ Fox_Pamai:
   lonMin: 106.461
   latMax: 12.773
   lonMax: 106.554
+  steam:
+    name: "Fox Pamai"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2596566189"
+  owner:
+    name: "Fox"
+    workshop: "https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410"
 
 Fox_Vanam:
   armaName: fox_vanam
@@ -141,14 +240,24 @@ Fox_Vanam:
   lonMin: 106.564
   latMax: 12.773
   lonMax: 106.657
+  steam:
+    name: "Fox Vanam"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2639755526"
+  owner:
+    name: "Fox"
+    workshop: "https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410"
 
 Hunting_Grounds:
   armaName: taro_huntingGrounds
   size: 10240
-  latMin: 13.500
+  latMin: 13.5
   lonMin: 106.461
   latMax: 13.595
   lonMax: 106.554
+  steam:
+    name: "Hunting Grounds"
+  owner:
+    name: "Taro"
 
 Hurtgen_Forest:
   armaName: hpr_hurtgen
@@ -157,6 +266,12 @@ Hurtgen_Forest:
   lonMin: 6.3
   latMax: 50.8
   lonMax: 6.45
+  steam:
+    name: "Hurtgen Forest"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=3214719358"
+  owner:
+    name: "E_50_Panzer"
+    workshop: "https://steamcommunity.com/profiles/76561198006572186/myworkshopfiles/?appid=107410"
 
 Kardazak:
   armaName: swu_public_afghan_map
@@ -165,6 +280,12 @@ Kardazak:
   lonMin: 71.0
   latMax: 47.6
   lonMax: 71.15
+  steam:
+    name: "Kardazak"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2994796909"
+  owner:
+    name: "swurvin"
+    workshop: "https://steamcommunity.com/id/swurvin420/myworkshopfiles/?appid=107410"
 
 Khe_Sanh:
   armaName: vn_khe_sanh
@@ -173,6 +294,11 @@ Khe_Sanh:
   lonMin: 106.63136
   latMax: 16.73448
   lonMax: 106.77775
+  steam:
+    name: "Khe Sanh (SOG PF cDLC)"
+    workshop: "https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/"
+  owner:
+    name: "Savage Game Design"
 
 Kolgujev:
   armaName: cain
@@ -181,22 +307,38 @@ Kolgujev:
   lonMin: 36.067
   latMax: 43.986
   lonMax: 36.245
+  steam:
+    name: "Kolgujev (CUP Terrains - CWA)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Kunduz_River:
   armaName: kunduz_valley
   size: 10240
-  latMin: 36.550
-  lonMin: 68.800
-  latMax: 36.650
-  lonMax: 68.920
+  latMin: 36.55
+  lonMin: 68.8
+  latMax: 36.65
+  lonMax: 68.92
+  steam:
+    name: "Kunduz River"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=3078351739"
+  owner:
+    name: "[SRRP]T/Sgt.Enfisk"
+    workshop: "https://steamcommunity.com/id/enfisk_/myworkshopfiles/?appid=107410"
 
 Livonia:
   armaName: Enoch
   size: 12800
   latMin: 49.16576
   lonMin: 17.29804
-  latMax: 49.29210
+  latMax: 49.2921
   lonMax: 17.49253
+  steam:
+    name: "Livonia"
+  owner:
+    name: "Bohemia Interactive"
 
 Lythium:
   armaName: lythium
@@ -205,6 +347,12 @@ Lythium:
   lonMin: 66.0
   latMax: 31.6
   lonMax: 66.12
+  steam:
+    name: "LYTHIUM"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=909547724"
+  owner:
+    name: "Green_Beret"
+    workshop: "https://steamcommunity.com/profiles/76561198015435179/myworkshopfiles/?appid=107410"
 
 Malden:
   armaName: abel
@@ -213,6 +361,12 @@ Malden:
   lonMin: 19.47518
   latMax: 38.86097
   lonMax: 19.86588
+  steam:
+    name: "Malden (CUP Terrains - CWA)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Malden2035:
   armaName: Malden
@@ -221,6 +375,10 @@ Malden2035:
   lonMin: 20.47518
   latMax: 38.86097
   lonMax: 20.86588
+  steam:
+    name: "Malden 2035"
+  owner:
+    name: "Bohemia Interactive"
 
 Mogadishu:
   armaName: Mog
@@ -229,6 +387,12 @@ Mogadishu:
   lonMin: 45.25089
   latMax: 2.14718
   lonMax: 45.43525
+  steam:
+    name: "Mogadishu"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=749790006"
+  owner:
+    name: "Variable.A"
+    workshop: "https://steamcommunity.com/profiles/76561197983110973/myworkshopfiles/?appid=107410"
 
 Nogova:
   armaName: noe
@@ -237,6 +401,12 @@ Nogova:
   lonMin: 18.47518
   latMax: 38.86097
   lonMax: 18.86588
+  steam:
+    name: "Nogova (CUP Terrains - CWA)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=853743366"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Normandy:
   armaName: spe_normandy
@@ -245,6 +415,11 @@ Normandy:
   lonMin: 0.0
   latMax: 49.1
   lonMax: 0.15
+  steam:
+    name: "Normandy (Spearhead 1944 cDLC)"
+    workshop: "https://store.steampowered.com/app/1175380/Arma_3_Creator_DLC_Spearhead_1944/"
+  owner:
+    name: "Heavy Ordnance Works"
 
 Novogorsk:
   armaName: swu_public_novogorsk_map
@@ -253,6 +428,12 @@ Novogorsk:
   lonMin: 76.5
   latMax: 47.1
   lonMax: 76.65
+  steam:
+    name: "Novogorsk"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2979021411"
+  owner:
+    name: "swurvin"
+    workshop: "https://steamcommunity.com/id/swurvin420/myworkshopfiles/?appid=107410"
 
 Porto:
   armaName: porto
@@ -261,14 +442,26 @@ Porto:
   lonMin: 50.354
   latMax: 42.441
   lonMax: 50.416
+  steam:
+    name: "Porto (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Proving_Grounds:
   armaName: ProvingGrounds_PMC
   size: 2048
-  latMin: 47.290
+  latMin: 47.29
   lonMin: 72.454
-  latMax: 47.310
-  lonMax: 72.480
+  latMax: 47.31
+  lonMax: 72.48
+  steam:
+    name: "Proving Grounds (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Rahmadi:
   armaName: intro
@@ -276,8 +469,14 @@ Rahmadi:
   latMin: 42.498
   lonMin: 49.617
   latMax: 42.543
-  lonMax: 49.680
-  
+  lonMax: 49.68
+  steam:
+    name: "Rahmadi (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
+
 Sahatra:
   armaName: juju_sahatra
   size: 8192
@@ -285,6 +484,12 @@ Sahatra:
   lonMin: 44.0
   latMax: 33.1
   lonMax: 44.12
+  steam:
+    name: "Sa'hatra"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=3019928771"
+  owner:
+    name: "juj"
+    workshop: "https://steamcommunity.com/profiles/76561198119533591/myworkshopfiles/?appid=107410"
 
 Sahrani:
   armaName: sara
@@ -293,6 +498,12 @@ Sahrani:
   lonMin: 49.247
   latMax: 43.198
   lonMax: 49.496
+  steam:
+    name: "Sahrani (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Shapur:
   armaName: Shapur_BAF
@@ -301,6 +512,12 @@ Shapur:
   lonMin: 70.631
   latMax: 47.102
   lonMax: 70.656
+  steam:
+    name: "Shapur (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Southern_Sahrani:
   armaName: saralite
@@ -308,7 +525,13 @@ Southern_Sahrani:
   latMin: 42.608
   lonMin: 49.956
   latMax: 42.704
-  lonMax: 50.080
+  lonMax: 50.08
+  steam:
+    name: "Southern Sahrani (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Stratis:
   armaName: Stratis
@@ -317,14 +540,24 @@ Stratis:
   lonMin: 24.94656
   latMax: 39.56808
   lonMax: 25.07194
+  steam:
+    name: Altis
+  owner:
+    name: Bohemia Interactive
 
 Takistan:
   armaName: takistan
   size: 12800
   latMin: 47.396
-  lonMin: 71.440
-  latMax: 47.510
-  lonMax: 71.610
+  lonMin: 71.44
+  latMax: 47.51
+  lonMax: 71.61
+  steam:
+    name: "Takistan (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Takistan_Mountains:
   armaName: Mountains_ACR
@@ -332,7 +565,13 @@ Takistan_Mountains:
   latMin: 48.072
   lonMin: 71.796
   latMax: 48.126
-  lonMax: 71.880
+  lonMax: 71.88
+  steam:
+    name: "Takistan Mountains (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Tanoa:
   armaName: Tanoa
@@ -341,70 +580,121 @@ Tanoa:
   lonMin: 174.003
   latMax: -20.1353
   lonMax: 174.146
+  steam:
+    name: "Tanoa"
+  owner:
+    name: "Bohemia Interactive"
 
 The_Bra:
   armaName: vn_the_bra
   size: 5120
-  latMin: 14.730
+  latMin: 14.73
   lonMin: 107.327
   latMax: 14.776
   lonMax: 107.374
+  steam:
+    name: "The Bra (SOG PF cDLC)"
+    workshop: "https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/"
+  owner:
+    name: "Savage Game Design"
 
 United_Sahrani:
   armaName: sara_dbe1
   size: 20480
   latMin: 43.019
   lonMin: 49.886
-  latMax: 43.200
+  latMax: 43.2
   lonMax: 50.131
+  steam:
+    name: "United Sahrani (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Unsung_Redux_BaLong:
   armaName: urx_jnd_BaLong
   size: 5120
-  latMin: 14.200
-  lonMin: 106.000
+  latMin: 14.2
+  lonMin: 106.0
   latMax: 14.247
-  lonMax: 106.050
+  lonMax: 106.05
+  steam:
+    name: "Ba Long (Unsung Redux Stable)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758"
+  owner:
+    name: "Unsung team"
+    workshop: "https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410"
 
 Unsung_Redux_DaKrong:
   armaName: DaKrong
   size: 5120
-  latMin: 14.200
-  lonMin: 106.100
+  latMin: 14.2
+  lonMin: 106.1
   latMax: 14.247
-  lonMax: 106.150
+  lonMax: 106.15
+  steam:
+    name: "Da Krong (Unsung Redux Stable)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758"
+  owner:
+    name: "Unsung team"
+    workshop: "https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410"
 
 Unsung_Redux_DakPek:
   armaName: urx_jnd_dakpek
   size: 10240
-  latMin: 14.200
-  lonMin: 106.200
+  latMin: 14.2
+  lonMin: 106.2
   latMax: 14.295
-  lonMax: 106.300
+  lonMax: 106.3
+  steam:
+    name: "Dak Pek (Unsung Redux Stable)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758"
+  owner:
+    name: "Unsung team"
+    workshop: "https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410"
 
 Unsung_Redux_Lowlands:
   armaName: csj_lowlands
   size: 10240
-  latMin: 14.200
-  lonMin: 106.400
+  latMin: 14.2
+  lonMin: 106.4
   latMax: 14.295
-  lonMax: 106.500
+  lonMax: 106.5
+  steam:
+    name: "Lowlands (Unsung Redux Stable)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758"
+  owner:
+    name: "Unsung team"
+    workshop: "https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410"
 
 Unsung_Redux_DoungIsland:
   armaName: RungSat
   size: 5120
-  latMin: 10.000
-  lonMin: 107.000
+  latMin: 10.0
+  lonMin: 107.0
   latMax: 10.047
-  lonMax: 107.050
+  lonMax: 107.05
+  steam:
+    name: "Doung Island (Unsung Redux Stable)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758"
+  owner:
+    name: "Unsung team"
+    workshop: "https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410"
 
 Unsung_Redux_SongBinTanh:
   armaName: song_bin_tanh
   size: 15360
-  latMin: 14.200
-  lonMin: 106.700
+  latMin: 14.2
+  lonMin: 106.7
   latMax: 14.342
-  lonMax: 106.850
+  lonMax: 106.85
+  steam:
+    name: "Song Bin Tanh (Unsung Redux Stable)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758"
+  owner:
+    name: "Unsung team"
+    workshop: "https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410"
 
 Utah_Beach:
   armaName: spex_utah_beach
@@ -413,14 +703,26 @@ Utah_Beach:
   lonMin: -1.35
   latMax: 49.6
   lonMax: -1.2
+  steam:
+    name: "Utah Beach (Spearhead Extended)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=3117898674"
+  owner:
+    name: "Heavy Ordnance Works"
+    workshop: "https://steamcommunity.com/profiles/76561199518649705/myworkshopfiles/?appid=107410"
 
 Utes:
   armaName: utes
   size: 5120
   latMin: 46.451
-  lonMin: 77.950
+  lonMin: 77.95
   latMax: 46.496
   lonMax: 78.016
+  steam:
+    name: "Utes (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
 Virtual_Reality:
   armaName: VR
@@ -429,6 +731,10 @@ Virtual_Reality:
   lonMin: -23.547
   latMax: 47.619
   lonMax: -23.436
+  steam:
+    name: "Virtual Reality"
+  owner:
+    name: "Bohemia Interactive"
 
 Weferlingen_Summer:
   armaName: gm_weferlingen_summer
@@ -437,6 +743,11 @@ Weferlingen_Summer:
   lonMin: 15.0
   latMax: 52.1
   lonMax: 15.15
+  steam:
+    name: "Weferlingen Summer (Global Mobilization - Cold War Germany cDLC)"
+    workshop: "https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/"
+  owner:
+    name: "Vertexmacht"
 
 Weferlingen_Winter:
   armaName: gm_weferlingen_winter
@@ -445,6 +756,11 @@ Weferlingen_Winter:
   lonMin: 16.0
   latMax: 52.1
   lonMax: 16.15
+  steam:
+    name: "Weferlingen Winter (Global Mobilization - Cold War Germany cDLC)"
+    workshop: "https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/"
+  owner:
+    name: "Vertexmacht"
 
 Zargabad:
   armaName: zargabad
@@ -453,3 +769,9 @@ Zargabad:
   lonMin: 70.294
   latMax: 46.997
   lonMax: 70.395
+  steam:
+    name: "Zargabad (CUP Terrains - Maps)"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=583544987"
+  owner:
+    name: "CUP Team"
+    workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"

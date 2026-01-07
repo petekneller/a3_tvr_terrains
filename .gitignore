@@ -1,2 +1,5 @@
 out/
 .venv/
+
+# emacs
+*.~undo-tree~
