@@ -1,4 +1,4 @@
-This page contains links to all the terrains supported by this mod. If you're not already following the [getting started guide](todo) on the Steam workshop then I'd suggest you have a look at that as well.
+This page contains links to all the terrains supported by this mod.
 
 You'll want to grab from here the terrains for any maps you wish to use in Arma, as well as the Tacview addon (this is distinct from the Arma mod on the Steam workshop). If you've already got the addon then check whether there's a newer version here than you have installed. You can determine this by looking in the settings menu of Tacview - the version appears in the name of the addon as shown below.
 
