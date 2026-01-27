@@ -1,0 +1,23 @@
+I assume you've subscribed to the mod and are now wondering how to make it work. There are a couple of changes you will need to make to the default mod settings, but it isn't onerous.
+
+Firstly, open up the control configuration from the in-game menu and go to [i]configure addons[/i]. Select [i]Tacview Recorder[/i] from the addon list. You'll see something like the below. 
+
+[previewimg=44285304;sizeFull,floatLeft;bindings1.png][/previewimg]
+
+The control bindings you need to make here are hopefully pretty clear. [i]Start[/i] and [i]Stop[/i] do what they suggest. [i]Check whether running[/i] will spit out a hint to let you know whether you're currently recording or not. Useful when you get partway into a mission and forget whether you've started recording or not (as I always do). Worth noting that you don't actually need this. If you're recording and hit the [i]record[/i] button again it won't stop/start, create a second recording or do anything else silly. You'll just get a reminder message and the recording will carry on it's merry way. So if you ever forget whether you're recording or not feel free to just hit [i]record[/i] again, all will be fine.
+
+Next, settings. Open up the [i]addon options[/i] from the in-game menu. From the dropdown select [i]Tacview Recorder[/i]. You'll see the default set of options below. 
+
+[previewimg=44284835;sizeFull,floatLeft;settings1.png][/previewimg]
+
+There are only 2 options here you care about: the output directory and [i]Record projectiles[/i]. 
+
+The output directory is where the recordings will be written. [b]Note[/b] that it's important this is a location at which Arma has permission to write files (the default of 'C:' is [b]not[/b] going to work). Unfortunately if you choose somewhere that isn't accessible/permissible than you won't get a good error message - it will fail silently and there'll simply be no recording where you expect it. I've created a folder called 'Tacview' in my Documents and I just point it there. So that's [i]C:/Users/<your user>/Documents/Tacview[/i]. I'd suggest you do something similar. It'll save you a lot of frustration if it doesn't work and you can't work out why. 
+
+[i]Record projectiles[/i] determines whether bullets, grenades, shells, bombs, etc are recorded. You'll probably want to enable this but it's off by default because recording all of that can be quite a performance hog. In single player missions I doubt it would be a problem, but in large multiplayer games this could cause noticeable a noticeable slowdown. You'll need to experiment with it and see how you get on. 
+
+The other 3 settings you're unlikely to want but in case you're interested (and if you're not then jump ahead to the [i]Getting started in Tacview section[/i])....
+
+[i]Output debug information[/i] prints period stats collected from the mod in-game, and [i]Period between debug output[/i] how often that should occur. I use this for profiling and performance enhancements. Turn it on momentarily in case you're curious but then get it out of your way.
+
+[i]Allow remoteExec[/i] is a bit of a safety valve for multiplayer. The vast majority of information the mod captures is from only the local game engine. But there is some information that is only found by reaching out to the other machines (in a multiplayer session). This is done by [url=https://community.bistudio.com/wiki/remoteExec]remoteExec[/url]'ing code on the other machines. Executing commands on the other machines hasn't caused a problem of which I'm aware, but its possible it could cause slowdowns on the network and so I've added the option to disable remote execution. The mod will continue to work, but only information available on the local machine will be recorded. 

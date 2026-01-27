@@ -1,0 +1,29 @@
+Assuming you've followed the previous section, have tried to make a recording in Arma and it [i]seems[/i] to work you'll be wanting to view the outcome in Tacview.
+
+First of, you'll need some extra bits. The terrain that's displayed in Tacview is very low resolution (not to mention that most of the locations in Arma are fictional) so viewing recordings in Tacview is almost always done on top of a terrain that is specific to the game making the recording. The same is true here. I've taken a number of the maps that are present in Arma and reformatted them for display within Tacview. So at a minimum you'll want that data for each map you want to record on. Pop over to the [url=https://github.com/petekneller/a3_tvr_terrains/blob/main/docs/downloads.md]download page[/url] in the Github repo for the mod. You'll want to grab the zip files for each terrain of interest to you. But note that some terrain files are quite large, so just grab what's of immediate use. You'll also want the zip of the [i]addon[/i] listed at the top of the page (an 'addon' for Tacview is the equivalent of a 'mod' for Arma).
+
+If you open up the zips for either the addon or any of the terrains you'll find something that looks like the below.
+
+[previewimg=44286044;sizeFull,floatLeft;files1.png][/previewimg][previewimg=44286046;sizeFull,floatLeft;files2.png][/previewimg]
+
+You can customise Tacview by adding content to one of several locations in the installation with files that fit into a directory structure that Tacview understands. That's what you're seeing with the [i]AddOns[/i] and [i]Data[/i] folders and their subfolders.
+
+There are a couple of places you can store this data for Tacview to find. The recommended one is the folders Tacview creates in your [i]%appdata%/Tacview[/i] folder. Type that into Explorer and you'll see something like the below. From memory there's no [i]AddOns[/i] by default, but I have one because I've already copied in the addon.
+
+[previewimg=44286061;sizeFull,floatLeft;files3.png][/previewimg]
+
+So unzip those packages you downloaded from Github and copy the folders into your Tacvew appdata folder. You might get a warning about overwriting existing flies. Go ahead. It's worth noting though that some of the configuration files are shared between all custom terrain so if, for example, you've already customised Tacview for another game (say DCS or Falcon 4.0) then they might clash. That is outside the scope of this document.
+
+Once you've unpacked the files just open up Tacview, open a recording you previously made and we'll look at how Arma works in Tacview.
+
+When you first open a recording in Tacview it'll scroll the globe to centre the location of the recording, though it will be zoomed out too far for a typical Arma recording. Tacview places terrain into different layers so that terrain from different games don't interfere. The default terrain setting (shown below) is [i]Auto[/i]. You should be able to leave this here. There's metadata in the Arma recordings that let's Tacview know which terrain to display.
+
+[previewimg=44286586;sizeFull,floatLeft;terrain-setting.png][/previewimg]
+
+It's also worth noting that some of the terrain files are quite large and Tacview loads them incrementally, so you might be staring at the default globe for a number of seconds, wondering why the terrain isn't appearing. The sequence of screenshots below show what I see when opening a recording I made on Stratis. It took a full 15 seconds or so before the fully resolved image was available. And it can take longer at times. 
+
+[previewimg=44286629;sizeFull,floatLeft;loading1.png][/previewimg]
+[previewimg=44286632;sizeFull,floatLeft;loading2.png][/previewimg]
+[previewimg=44286634;sizeFull,floatLeft;loading3.png][/previewimg]
+
+At this point you should be able to use Tacview to view recordings you've made in Arma. If so then head to the next section and see what else you can do with Tacview and Arma.

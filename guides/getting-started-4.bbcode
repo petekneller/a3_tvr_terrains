@@ -1,0 +1,47 @@
+Because Arma is not your typical game recorded for Tacview (which are almost exclusively flight sims) I created an addon for Tacview (which you've already installed) to make the most of Arma.
+
+First of all ensure the addon is enabled. See the screenshot below and ensure that your [i]Arma 3 Tools[/i] has a tick next to it.
+
+[previewimg=44286776;sizeFull,floatLeft;addon1.png][/previewimg]
+
+Now let's look at what a typical recording might look like in Tacview. Here's one I prepared earlier for the purpose of demonstration.
+
+[previewimg=44287043;sizeFull,floatLeft;stratis4.png][/previewimg]
+
+[h1]Markers[/h1]
+
+There are few things going on here I'd like to describe. See the 3 pin-like objects, one each of purple, blue and green, in the fore- and mid-ground? In Tacview those are [i]waypoint[/i] objects. I'm using them to represent markers from Arma. The blue one is a rectangle marker, the green a circle marker, and the purple an [i]Ambush[/i] icon marker. Even though most Arma markers aren't point-like objects I need some kind of object in Tacview on which to hang the marker's properties. So you'll find that while you can look at the boundary of a rectangle or circular marker you won't be able to select the lines themselves - they're custom drawn and you need instead to select the waypoint object at the centre of the marker.
+
+As you can see in the image, rectangle markers are drawn on the map as you'd expect them to, but circular markers are actually drawn using Tacview [i]engagement bubbles[/i]. Why? Because it's easy to draw custom straight lines in Tacview, but not so easy to draw circles/ellipses, but the engagement bubbles are easy to use. The circular markers will appear as a bubble from perspective view but as a circle if you look top-down. If you don't like these then there's an option in the addon settings to turn them off. 
+
+[previewimg=44302009;sizeFull,floatLeft;bubble1.png][/previewimg][previewimg=44302020;sizeFull,floatLeft;bubble2.png][/previewimg]
+[previewimg=44302021;sizeFull,floatLeft;bubble3.png][/previewimg]
+
+The set of marker icons in the base game have been brought over to Tacview. You can see one of them partly obscured by the purple waypoint object in the earlier pic, and in more detail below. What I'd like to have done with these is to have them automatically size themselves based on the zoom level of the UI, the same way all the Tacview objects work. But I wasn't able to get this to work. So the icons will be drawn at 1 of 3 sizes, selectable from the addon options. The icons will be either 50, 100 or 250 metres on a side. Or you can disable the display of the icon, if its getting too cluttered.
+
+[previewimg=44302328;sizeFull,floatLeft;marker1.png][/previewimg]
+
+[h1]Unit names v classes[/h1]
+
+Let's take a look at what Tacview shows in the UI when [i]IDs[/i] are displayed. Two screenshots below of the same group of bad guys. On the left you can see that the unit classes are being displayed, on the right their unit [i]names[/i] (these are AI, if they were human you'd see their profile names). There are a number of ways objects in Tacview can be identified. Two of those are their class ('F-16', 'M-1 Abrams') and their [i]callsign[/i] ('Tom', 'Harry'). I've used these 2 properties to send the units Arma 3 class and name. However, if a unit has both the callsign takes precedence. So you'd always see that [i]Team Leader[/i] as [i]O Alpha 1-1:3[/i]. But that's not always helpful. It's very helpful to know who's who when you're watching a multiplayer game full of humans, less so for when you're looking at a large number of AI and wondering who blew up your tank (it was the [i]Rifleman (AT)[/i] but you can't tell that when all you're seeing is [i]O Alpha 1-1:4[/i]). So there's an addon option that removes the callsigns from AI units, in which case you are shown their classes. This applies only to AI, so you'll still know which human is which. And it's reversible - toggle it back and you'll have unit callsigns again.
+
+[previewimg=44302450;sizeThumb,floatLeft;ids1.png][/previewimg][previewimg=44302451;sizeThumb,floatLeft;ids2.png][/previewimg]
+[previewimg=44302452;sizeFull,floatLeft;ids3.png][/previewimg]
+
+[h1]Hiding dead units[/h1]
+
+When units are destroyed Tacview leaves the object on screen but shades them out so its clear they are no longer participants in the action. In a heavy AI environment this can sometimes leave a lot of clutter and so I've added a couple of options to hide the object entirely. You can choose to hide dead units immediately, after 60 seconds of gametime, or leave the behaviour default. 
+
+[previewimg=44302801;sizeFull,floatLeft;hide1.png][/previewimg]
+
+[h1]UI overlays[/h1]
+
+At the bottom of the addon settings you'll see mention of 2 UI overlays - a [i]statistics display[/i] and the [i]scoreboard[/i]. The first is largely diagnostic information and unlikely to be interesting, but the second is the same scoreboard you'll find in-game rendered onto the recording. But please note that rendering the overlay brings real time playback to a grinding halt (this goes for both overlays). So don't try to leave it up as you watch the replay, turn it on or off as you go, or scrub through the action with the slider and not the play button.
+
+[previewimg=44302978;sizeFull,floatLeft;scoreboard.png][/previewimg]
+
+[h1]Unit data[/h1]
+
+Lastly, there's a bunch of information about units that Tacview can be given and knows how to make sense of - speed, altitude, unit type, health. But there's also a ton of information that Arma makes available but that Tacview simply can't make use of, especially with regard to AI units: stance (standing, prone), awareness level, morale, etc. A lot of this can be really useful when designing missions around scripted AI groups. I've shipped much of this information to Tacview but you won't see in the obvious places. Instead open the [i]raw telemetry[/i] windows.
+
+[previewimg=44311585;sizeThumb,floatLeft;raw1.png][/previewimg]

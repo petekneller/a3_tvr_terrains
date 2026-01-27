@@ -1,5 +1,7 @@
 This page contains links to all the terrains supported by this mod.
 
+It assumes you've been through the [getting started guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3653815420) on Steam.
+
 You'll want to grab from here the terrains for any maps you wish to use in Arma, as well as the Tacview addon (this is distinct from the Arma mod on the Steam workshop). If you've already got the addon then check whether there's a newer version here than you have installed. You can determine this by looking in the settings menu of Tacview - the version appears in the name of the addon as shown below.
 
 <img src="images/addon_version.png" alt="Version number is part of the addon name" height="200">
