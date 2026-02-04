@@ -1,0 +1,28 @@
+I occasionally get asked if this mod works on a dedicated server. The quick answer is 'yes', but there's also some ambiguity in the question. 
+
+Usually what's of interest is one of two things:
+
+1. You're playing a dedicated multiplayer server and you'd like to record your game.
+
+Yes, this works. It was what I originally designed the mod for. It's worth noting that if you're playing with friends you might want only one of your to record the game. Especially if you're recording projectiles. The extra data being shipped around the network [i]might[/i] be a problem with more than one of you recording. I don't have any evidence as to whether this or isn't a problem. It would almost certainly be a waste. Do note my comment earlier in the guide where I pointed out that recording of projectiles isn't foolproof on an MP server. That might be a reason to have more than one recorder. If you're playing in a tight group where most of you are together most of the time then its probably not necessary - you'll capture all the action on one machine.
+
+2. You're [i]running[/i] a dedicated server and you'd like to record the action on the server.
+
+Maybe you're thinking this would solve the problem of some projectiles being lost if only one player records (I believe it would help, yes). Yes, this also works. I've done testing in this configuration, though not extensively, but as far as I know it all works - including projectiles.
+
+The only difference in that you don't have keybindings available to run scripts on the server, so its a little more involved to start and stop the recordings. Happily the settings are trivially easy to configure as CBA makes server/client settings fairly seamless.
+
+First thing: ensure you've got the mod on the server. How you do this will depend on your host, but it'll be same as you run any other mod. 
+
+When you enter the game you'll want to go to the options for addons and ensure you've got sensible settings for the mod. Ensure you're on the [i]server[/i] tab. If the server tab is not available its because the mod isn't on the server. At this point the settings are as you would find them on your local machine. Be careful that when you enter a recording directory that it's available [i]from the server[/i]. It's easy to forget an enter a path on your own machine.
+
+[previewimg=44426350;sizeFull,floatLeft;dedi1.png][/previewimg]
+
+In order to start/stop the recording, in the absence of key bindings, you'll need to call the underlying functions. You'll need the debug console for this. Ii's off by default in MP missions. See the [url=https://community.bistudio.com/wiki/Arma_3:_Debug_Console]wiki article[/url] about enabling it.
+
+You want to run the commands [i][] spawn TVR_fnc_startRecording[/i] to start, and [i][] spawn TVR_fnc_stopRecording[/i] to stop, the recording. You'll need to [b]execute these on the server[/b] ([i]'server exec'[/i]). It's also very important that you [i]spawn[/i] these - not [i]call[/i].
+
+[previewimg=44426357;sizeFull,floatLeft;dedi2.png][/previewimg]
+[previewimg=44426360;sizeFull,floatLeft;dedi3.png][/previewimg]
+
+And that's it!
