@@ -8,7 +8,7 @@ You'll want to grab from here the terrains for any maps you wish to use in Arma,
 
 # Tacview addon
 
-[1.7.20251215](https://github.com/petekneller/a3_tvr_terrains/releases/download/Addon-1.7.20251215/Addon-1.7.20251215.zip)
+[1.8.20260204](https://github.com/petekneller/a3_tvr_terrains/releases/download/Addon-1.8.20260204/Addon-1.8.20260204.zip)
 
 # Terrains
 
@@ -34,6 +34,7 @@ Please note that none of the content listed below is my work. The rights sit wit
 |  [Fox Hutan](https://steamcommunity.com/sharedfiles/filedetails/?id=2306911815)  |  [Fox](https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410)  | [20220808](https://github.com/petekneller/a3_tvr_terrains/releases/download/Fox_Hutan-20220808/Fox_Hutan-20220808.zip) |
 |  [Fox Pamai](https://steamcommunity.com/sharedfiles/filedetails/?id=2596566189)  |  [Fox](https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410)  | [20220808](https://github.com/petekneller/a3_tvr_terrains/releases/download/Fox_Pamai-20220808/Fox_Pamai-20220808.zip) |
 |  [Fox Vanam](https://steamcommunity.com/sharedfiles/filedetails/?id=2639755526)  |  [Fox](https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410)  | [20220808](https://github.com/petekneller/a3_tvr_terrains/releases/download/Fox_Vanam-20220808/Fox_Vanam-20220808.zip) |
+|  [Harvey Point](https://steamcommunity.com/sharedfiles/filedetails/?id=3339537470)  |  [SPEW](https://steamcommunity.com/profiles/76561198188468354/myworkshopfiles/?appid=107410)  | [20260204](https://github.com/petekneller/a3_tvr_terrains/releases/download/Harvey_Point_Redux-20260204/Harvey_Point_Redux-20260204.zip) |
 |  Hunting Grounds  |  Taro  | [20240628](https://github.com/petekneller/a3_tvr_terrains/releases/download/Hunting_Grounds-20240628/Hunting_Grounds-20240628.zip) |
 |  [Hurtgen Forest](https://steamcommunity.com/sharedfiles/filedetails/?id=3214719358)  |  [E_50_Panzer](https://steamcommunity.com/profiles/76561198006572186/myworkshopfiles/?appid=107410)  | [20240703](https://github.com/petekneller/a3_tvr_terrains/releases/download/Hurtgen_Forest-20240703/Hurtgen_Forest-20240703.zip) |
 |  [Kardazak](https://steamcommunity.com/sharedfiles/filedetails/?id=2994796909)  |  [swurvin](https://steamcommunity.com/id/swurvin420/myworkshopfiles/?appid=107410)  | [20240703](https://github.com/petekneller/a3_tvr_terrains/releases/download/Kardazak-20240703/Kardazak-20240703.zip) |
@@ -69,7 +70,9 @@ Please note that none of the content listed below is my work. The rights sit wit
 |  [Song Bin Tanh (Unsung Redux Stable)](https://steamcommunity.com/sharedfiles/filedetails/?id=2554978758)  |  [Unsung team](https://steamcommunity.com/profiles/76561199007644603/myworkshopfiles/?appid=107410)  | [20230129](https://github.com/petekneller/a3_tvr_terrains/releases/download/Unsung_Redux_SongBinTanh-20230129/Unsung_Redux_SongBinTanh-20230129.zip) |
 |  [Utah Beach (Spearhead Extended)](https://steamcommunity.com/sharedfiles/filedetails/?id=3117898674)  |  [Heavy Ordnance Works](https://steamcommunity.com/profiles/76561199518649705/myworkshopfiles/?appid=107410)  | [20240703](https://github.com/petekneller/a3_tvr_terrains/releases/download/Utah_Beach-20240703/Utah_Beach-20240703.zip) |
 |  [Utes (CUP Terrains - Maps)](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987)  |  [CUP Team](https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410)  | [20220531](https://github.com/petekneller/a3_tvr_terrains/releases/download/Utes-20220531/Utes-20220531.zip) |
+|  [Vidda | Legacy Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1282716647)  |  [bludclot](https://steamcommunity.com/id/bludclot/myworkshopfiles/?appid=107410)  | [20260204](https://github.com/petekneller/a3_tvr_terrains/releases/download/Vidda_Legacy-20260204/Vidda_Legacy-20260204.zip) |
 |  Virtual Reality  |  Bohemia Interactive  | [20220531](https://github.com/petekneller/a3_tvr_terrains/releases/download/Virtual_Reality-20220531/Virtual_Reality-20220531.zip) |
 |  [Weferlingen Summer (Global Mobilization - Cold War Germany cDLC)](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)  |  Vertexmacht  | [20240703](https://github.com/petekneller/a3_tvr_terrains/releases/download/Weferlingen_Summer-20240703/Weferlingen_Summer-20240703.zip) |
 |  [Weferlingen Winter (Global Mobilization - Cold War Germany cDLC)](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)  |  Vertexmacht  | [20240703](https://github.com/petekneller/a3_tvr_terrains/releases/download/Weferlingen_Winter-20240703/Weferlingen_Winter-20240703.zip) |
+|  [Yulakia](https://steamcommunity.com/sharedfiles/filedetails/?id=2950257727)  |  [IceBreakr](https://steamcommunity.com/id/icebreakr/myworkshopfiles/?appid=107410)  | [20260204](https://github.com/petekneller/a3_tvr_terrains/releases/download/Yulakia-20260204/Yulakia-20260204.zip) |
 |  [Zargabad (CUP Terrains - Maps)](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987)  |  [CUP Team](https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410)  | [20220531](https://github.com/petekneller/a3_tvr_terrains/releases/download/Zargabad-20220531/Zargabad-20220531.zip) |

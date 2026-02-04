@@ -247,6 +247,20 @@ Fox_Vanam:
     name: "Fox"
     workshop: "https://steamcommunity.com/profiles/76561198150763475/myworkshopfiles/?appid=107410"
 
+Harvey_Point_Redux:
+  armaName: sig_Harvey_Point_Redux
+  size: 8000
+  latMin: 36.06
+  lonMin: -76.38
+  latMax: 36.13
+  lonMax: -76.29
+  steam:
+    name: "Harvey Point"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=3339537470"
+  owner:
+    name: "SPEW"
+    workshop: "https://steamcommunity.com/profiles/76561198188468354/myworkshopfiles/?appid=107410"
+
 Hunting_Grounds:
   armaName: taro_huntingGrounds
   size: 10240
@@ -724,6 +738,20 @@ Utes:
     name: "CUP Team"
     workshop: "https://steamcommunity.com/id/cup-a3/myworkshopfiles/?appid=107410"
 
+Vidda_Legacy:
+  armaName: blud_vidda
+  size: 12288
+  latMin: 48.55
+  lonMin: 14.00
+  latMax: 48.65
+  lonMax: 14.15
+  steam:
+    name: "Vidda | Legacy Version"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=1282716647"
+  owner:
+    name: "bludclot"
+    workshop: "https://steamcommunity.com/id/bludclot/myworkshopfiles/?appid=107410"
+
 Virtual_Reality:
   armaName: VR
   size: 8192
@@ -771,8 +799,10 @@ Yulakia:
   lonMax: 48.20
   steam:
     name: "Yulakia"
+    workshop: "https://steamcommunity.com/sharedfiles/filedetails/?id=2950257727"
   owner:
     name: "IceBreakr"
+    workshop: "https://steamcommunity.com/id/icebreakr/myworkshopfiles/?appid=107410"
 
 Zargabad:
   armaName: zargabad
