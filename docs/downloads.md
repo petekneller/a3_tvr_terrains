@@ -8,7 +8,7 @@ You'll want to grab from here the terrains for any maps you wish to use in Arma,
 
 # Tacview addon
 
-[1.8.20260204](https://github.com/petekneller/a3_tvr_terrains/releases/download/Addon-1.8.20260204/Addon-1.8.20260204.zip)
+[1.8.20260205](https://github.com/petekneller/a3_tvr_terrains/releases/download/Addon-1.8.20260205/Addon-1.8.20260205.zip)
 
 # Terrains
 
